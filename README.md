@@ -1,4 +1,4 @@
-## Aplicação de Pesquisa de Lutadores UFC-280
+## Aplicação de Pesquisa de Lutadores UFC-280 - Imersão Dev com Google Gemini
 
 **Uma jornada épica para descobrir seus lutadores favoritos!**
 
